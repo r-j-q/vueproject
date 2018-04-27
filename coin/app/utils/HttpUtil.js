@@ -1,4 +1,4 @@
-//shujuqignqiu
+//shujuqignqiu  新增加了内
 //url  successCallback failCallback
 
 var  key = "UaZnKe1JAotWiL7yI2zhvlW3KnTihwc1xVwzt2TZ";
