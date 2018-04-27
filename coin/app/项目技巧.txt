@@ -1,0 +1,2 @@
+ 使用react-native-dropdown-menu 时，安装会报错，并安装导入npm install prop-types 到node_modules组件里面index.js中加入  import React, {Component} from 'react';
+import { PropTypes } from 'prop-types';   index.js中178行修改他的高度     62行top改为20
